@@ -1,0 +1,12 @@
+[package]
+name = "mech_sounds"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+device_query = "1.1.1"
+rodio = "0.15.0"
+exitcode = "1.1.2"
+json = "0.12.4"
